@@ -6,6 +6,13 @@ type ProjectProps = Parameters<typeof Project>[0]
 
 const projects: Array<ProjectProps> = [
   {
+    name:"Portfolio Website",
+    description:"A website to display projects and a little bit about me.",
+    technology:"Typescript, TailWindCSS, Deno, React",
+    date:"Sept '22",
+    link:"https://github.com/ccramnar/portfolio",
+  },
+  {
     name:"Food Network",
     description:"Allows farmers to be connected to wholesale buyers to help increase profits of farmers and reduce the middle man. Allows CRUD of products for farmers and wholesalers and allows different platforms to make requests to farmers.",
     technology:"Android Studio, Kotlin, JavaFx, Firebase",

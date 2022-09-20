@@ -32,8 +32,23 @@ export default function Home(props: PageProps) {
             img="https://avatars.githubusercontent.com/u/55121041?v=4"
             title="Hi I'm Cy"
           >
-            My name is Cyanne Ramnarine! I am a 4B computer science student at
-            the University of Waterloo.
+            <div>
+            My name is Cyanne Ramnarine!
+            </div>
+            I am a 4B computer science student at
+            the University of Waterloo. 
+            <br></br>
+            <br></br>
+            <div>
+            Current internship @ Canvass AI as a Full-Stack SWE! 
+            </div>
+            <br></br>
+            <div>
+            With previous SWE experience at Maxon and Yara International
+            </div>
+            <div>
+            and Automation Engineer experience at Bluescape and Christie Digital. 
+            </div>
           </About>
         </div>
         <style>{style}</style>
