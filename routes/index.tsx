@@ -36,15 +36,15 @@ export default function Home(props: PageProps) {
             My name is Cyanne Ramnarine!
             </div>
             I am a 4B computer science student at
-            the University of Waterloo. 
+            the University of Waterloo graduating in August 2023!. 
             <br></br>
             <br></br>
             <div>
-            Current internship @ Canvass AI as a Full-Stack SWE! 
+            Currently seeking fulltime SWE opportunities! 
             </div>
             <br></br>
             <div>
-            With previous SWE experience at Maxon and Yara International
+            With previous SWE experience at Sibros, Canvass Ai, Maxon and Yara International
             </div>
             <div>
             and Automation Engineer experience at Bluescape and Christie Digital. 
