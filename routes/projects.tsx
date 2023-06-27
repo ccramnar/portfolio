@@ -6,6 +6,13 @@ type ProjectProps = Parameters<typeof Project>[0]
 
 const projects: Array<ProjectProps> = [
   {
+    name:"Freelancing Website",
+    description:"A website made for a photographer to display their portfolio.",
+    technology:"Typescript, TailWindCSS, Deno, React",
+    date:"June '23 WIP",
+    link:"https://github.com/ccramnar/mukund-photography",
+  },
+  {
     name:"Portfolio Website",
     description:"A website to display projects and a little bit about me.",
     technology:"Typescript, TailWindCSS, Deno, React",
